@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e48f9d-9ba7-47bc-8527-086108bc97e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch14/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/Subway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/TakeTransTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/TakeTaxiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/CompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/CarFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20/CharArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21/ObjectCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22/TowDimensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch23/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15/TakeTaxiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15/TakeTaxiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch17" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -47,19 +60,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\Fastcampus_JavaSpring\Chapter2\src\ch17" />
       <recent name="E:\Code\Fastcampus_JavaSpring\Chapter2\src\ch05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TakeTaxiTest">
-    <configuration name="BirthDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch10.BirthDayTest" />
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch23.ArrayListTest" />
       <module name="Chapter2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch10.*" />
+          <option name="PATTERN" value="ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeReportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11.MakeReportTest" />
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.BookTest" />
       <module name="Chapter2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11.*" />
+          <option name="PATTERN" value="ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.Person" />
+    <configuration name="ObjectCopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopyTest" />
       <module name="Chapter2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.*" />
+          <option name="PATTERN" value="ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeTaxiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.TakeTaxiTest" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24.StudentTest" />
       <module name="Chapter2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15.*" />
+          <option name="PATTERN" value="ch24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.TakeTransTest" />
+    <configuration name="TowDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch22.TowDimensionTest" />
       <module name="Chapter2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.*" />
+          <option name="PATTERN" value="ch22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TakeTaxiTest" />
-        <item itemvalue="Application.TakeTransTest" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.MakeReportTest" />
-        <item itemvalue="Application.BirthDayTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.TowDimensionTest" />
+        <item itemvalue="Application.ObjectCopyTest" />
+        <item itemvalue="Application.BookTest" />
       </list>
     </recent_temporary>
   </component>
