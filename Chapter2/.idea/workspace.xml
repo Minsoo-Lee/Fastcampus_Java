@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e48f9d-9ba7-47bc-8527-086108bc97e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch16/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch18/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch18/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/CarFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20/CharArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/ObjectCopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22/TowDimensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch23/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch15/TakeTaxiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15/TakeTaxiTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4e48f9d-9ba7-47bc-8527-086108bc97e6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
