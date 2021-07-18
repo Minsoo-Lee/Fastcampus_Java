@@ -1,0 +1,28 @@
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+가장 미세: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+보다 미세: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+미세: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+구성: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+정보: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+경고: Log Test
+7월 18, 2021 9:10:17 오후 ch11.MyLogger log
+심각: Log Test
+7월 18, 2021 9:11:53 오후 ch11.MyLogger log
+정보: Log Test
+7월 18, 2021 9:11:53 오후 ch11.MyLogger log
+경고: Log Test
+7월 18, 2021 9:11:53 오후 ch11.MyLogger log
+심각: Log Test
+7월 18, 2021 9:27:17 오후 ch11.MyLogger warning
+경고: name must not be null
+7월 18, 2021 9:27:17 오후 ch11.MyLogger warning
+경고: 이름이 너무 길어요
+7월 18, 2021 9:30:58 오후 ch11.MyLogger warning
+경고: name must not be null
+7월 18, 2021 9:30:58 오후 ch11.MyLogger warning
+경고: 이름이 너무 길어요
