@@ -1,0 +1,11 @@
+package ch02_DesignPattern.Proxy;
+
+public class Html {
+    private String url;
+
+    public Html(String url) {
+        this.url = url;
+    }
+
+
+}

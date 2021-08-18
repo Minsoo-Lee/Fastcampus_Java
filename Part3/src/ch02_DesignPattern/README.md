@@ -13,21 +13,21 @@
 ## 디자인 패턴의 단점
 1. 객체지향 설계/구현
 2. 초기 투자 비용 부담
-
+---
 ## 생성 패턴
 * 객체를 생성하는 것과 관련된 패턴
 * 객체의 생성과 변경이 전체 시스템에 미치는 영향을 최소화
 * 코드의 유연성을 높여 줌
-Factory Method, Singleton, Prototype, Builder, Abstract Factory, Chaining
+* ```Factory Method, Singleton, Prototype, Builder, Abstract Factory, Chaining```
 
 ## 구조 패턴
 * 프로그램 내의 자료구조나 인터페이스 구조 등 프로그램 구소를 설계하는 데 활용
 * 클래스, 객체들의 구성을 통해 더 큰 구조를 만들 수 있게 해줌
 * 큰 규모의 시스템에서 개발과 유지보수를 쉽게 만들어 줌
-Adapter, Composite, Bridge, Decorator, Facade, Flyweight, Proxy
+* ```Adapter, Composite, Bridge, Decorator, Facade, Flyweight, Proxy```
 
 ## 행위 패턴
 * 반복적으로 사용되는 객체들의 상호작용을 패턴화
 * 클래스나 객체들이 상호작용하는 방법과 책임을 분산하는 방법을 제공
 * 독립적으로 일을 처리하고자 할 때 사용
-Template Method, Interpreter, Iterator, Observer, Strategy, Visitor, Chain of responsibility, Command, Mediator, State, Memento
+* ```Template Method, Interpreter, Iterator, Observer, Strategy, Visitor, Chain of responsibility, Command, Mediator, State, Memento```
