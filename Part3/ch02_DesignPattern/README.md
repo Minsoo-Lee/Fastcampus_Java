@@ -18,7 +18,7 @@
 * 객체를 생성하는 것과 관련된 패턴
 * 객체의 생성과 변경이 전체 시스템에 미치는 영향을 최소화
 * 코드의 유연성을 높여 줌
-'''Factory Method, Singleton, Prototype, Builder, Abstract Factory, Chaining'''
+```Factory Method, Singleton, Prototype, Builder, Abstract Factory, Chaining```
 
 ## 구조 패턴
 * 프로그램 내의 자료구조나 인터페이스 구조 등 프로그램 구소를 설계하는 데 활용
