@@ -37,5 +37,9 @@ public class Main {
 
         aopBrowser.show();
         System.out.println("loading time : " + end.get());
+
+        String new_id = "33";
+        System.out.println(new_id);
+        StringBuilder sb = new StringBuilder (new_id);
     }
 }
